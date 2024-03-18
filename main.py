@@ -67,7 +67,7 @@ def hot_key():
 def ring():
     if usar_ring.get() == 1:
         try:
-            pg.locateOnScreen("imgs/sem_ring.png",confidence=0.9)
+            pg.locateOnScreen("imgs/sem anel.png",confidence=0.9)
             pg.press(HOTKEY_RING)
         except:
             pass
