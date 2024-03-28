@@ -68,6 +68,7 @@ def ring():
     if usar_ring.get() == 1:
         try:
             pg.locateOnScreen("imgs/sem anel.png",confidence=0.9)
+            print("esta sem anel")
             pg.press(HOTKEY_RING)
         except:
             pass
