@@ -23,4 +23,4 @@ Para usar anel e amuleto é só marcar a caixa e escolher a hotkey de ambas
 
 Clicando no Start o bot começa a funcionar
 
-Para parar o bot é só precionar a tecla "esc" a interface do bote abrira!
+Para parar o bot é só precionar a tecla "esc" a interface do bot abrira!
